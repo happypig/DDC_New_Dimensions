@@ -15,7 +15,7 @@
     - [《法鼓全集》2020紀念版斷詞成果示例](https://github.com/happypig/DDC_New_Dimensions/tree/main/wordSeg)
     - [《法鼓全集》2020紀念版停用字清單](https://github.com/happypig/DDC_New_Dimensions/tree/main/stopWords)
 
--	數位人文工具開發經驗與佛學研究領域應用與啟發，請參考目錄內的[Thesis.pdf]()。
+-	數位人文工具開發經驗與佛學研究領域應用與啟發，請參考目錄內的論文《數位人文取徑之〈法鼓全集〉文獻梳理研究》[A Digital Humanities Approach to Document Analysis of the Complete Works of Master Sheng Yen.pdf](https://bit.ly/DDC_Thesis)。
   
 期望本研究探索能為相關領域研究者提供參考，激發創新思維，推動跨領域整合，為人文社會科學研究注入新動能。歡迎交流指教！
 
